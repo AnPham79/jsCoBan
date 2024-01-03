@@ -1,0 +1,8 @@
+json là 1 định dạng dữ liệu ( chuổi ).
+json là viết tắc của javascript object notation.
+json thể hiện được những kiểu dữ liệu như: number, boolean, null, object, array,...
+thao tác 
+    mã hóa / giải mã
+    encode / decode
+    stringify từ javascript type -> JSON.
+    Parse từ JSON -> javascript type.
